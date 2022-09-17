@@ -1,0 +1,11 @@
+Process for querying the metadata of an AWS instance in to a json formatted output.
+
+Step1 - Deploy a windows ec2 instance in your aws account.
+
+Step2 - Download and install postman in the instance.
+
+step3 - Visit this link https://www.postman.com/api-evangelist/workspace/amazon-web-services-aws/collection/35240-f27f798d-07bf-410e-bc36-81f925cac47d
+
+Step4 - Export the folder named AWS EC2, it has all the API calls.
+
+Step5 - We can use any API call according to our requirement. 
